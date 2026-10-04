@@ -1,0 +1,8 @@
+{
+  "name": "VaultPass",
+  "description": "Secure password manager with biometric authentication, hardware-backed AES-256 encryption, and Android Autofill service integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
